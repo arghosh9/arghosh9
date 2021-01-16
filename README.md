@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arindam-ghosh-b31300162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arindam-ghosh-b31300162" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arindam.ghosh.714655" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/arindam.ghosh.714655" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/arighosh98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/arighosh98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ari_ghosh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/ari_ghosh/" height="30" width="40" /></a>
+<a href="https://fb.com/arindam.ghosh.714655" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arindam.ghosh.714655" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arighosh98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arighosh98" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ari_ghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ari_ghosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
